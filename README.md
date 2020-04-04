@@ -7,5 +7,6 @@ Requirements:
     Computer or virtual machine that is running Ubuntu 18
 
 Table of Contents
-  1 - ROS Introduction, Installation
-  2 - 
+  1 - ROS Introduction, installation and setup
+  
+  2 - Creating and running a package
